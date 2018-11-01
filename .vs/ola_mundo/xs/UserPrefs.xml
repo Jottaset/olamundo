@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{129D1653-E63F-48FE-877B-3FEA8A92B900}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ola_mundo/Program.cs">
+    <Files>
+      <File FileName="ola_mundo/Program.cs" Line="15" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ola__mundo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

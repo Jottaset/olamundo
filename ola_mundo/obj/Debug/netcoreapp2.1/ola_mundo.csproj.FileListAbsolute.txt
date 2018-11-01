@@ -1,0 +1,11 @@
+/Users/aluno/Projects/ola_mundo/ola_mundo/bin/Debug/netcoreapp2.1/ola_mundo.deps.json
+/Users/aluno/Projects/ola_mundo/ola_mundo/bin/Debug/netcoreapp2.1/ola_mundo.runtimeconfig.json
+/Users/aluno/Projects/ola_mundo/ola_mundo/bin/Debug/netcoreapp2.1/ola_mundo.runtimeconfig.dev.json
+/Users/aluno/Projects/ola_mundo/ola_mundo/bin/Debug/netcoreapp2.1/ola_mundo.dll
+/Users/aluno/Projects/ola_mundo/ola_mundo/bin/Debug/netcoreapp2.1/ola_mundo.pdb
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.csprojAssemblyReference.cache
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.AssemblyInfo.cs
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.dll
+/Users/aluno/Projects/ola_mundo/ola_mundo/obj/Debug/netcoreapp2.1/ola_mundo.pdb
